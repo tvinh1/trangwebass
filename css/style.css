@@ -24,7 +24,7 @@ header{
 }
 /************************************/
 nav{
-    background-color: yellow;
+    background-color: red;
 
 }
 nav ul {
@@ -78,7 +78,7 @@ nav ul li:nth-child(4) button:hover{
 }
 /*-----------menu bar---------------*/
 .menu-bar{
-    background-color: yellow;
+    background-color: red;
 
 }
 .menu-bar ul {

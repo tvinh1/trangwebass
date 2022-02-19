@@ -1,0 +1,68 @@
+.column{
+    width: 45%;
+    float: left;
+}
+.sanpham{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.sanpham>.ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color:blue;
+}
+img{
+    max-width: 250px;
+}
+.gia{
+    color: red;
+    font-weight:bold;
+    font-size: larger;
+}
+del{
+    color: gray;
+}
+.column:hover{
+    background-color: yellow;
+
+
+}
+article{
+    width: 70%;
+    height: auto;
+    float: left;
+    
+}
+article h5{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+}
+aside{
+    width: 30%;
+    height: auto;
+}
+.column2{
+  float: left;
+    width: 100%;
+ 
+}
+aside h5{
+    background-color: black;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+}
+.sanpham2{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 5px gray;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
